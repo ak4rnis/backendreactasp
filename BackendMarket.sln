@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{C1CAF6A6-CF75-489F-953E-D85005463F0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{59EAB78C-58B3-433B-BAB6-A620B73FDA11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{16E77BEA-AA3D-45B4-9554-0654FA79DA60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1CAF6A6-CF75-489F-953E-D85005463F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CAF6A6-CF75-489F-953E-D85005463F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CAF6A6-CF75-489F-953E-D85005463F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CAF6A6-CF75-489F-953E-D85005463F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EAB78C-58B3-433B-BAB6-A620B73FDA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EAB78C-58B3-433B-BAB6-A620B73FDA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EAB78C-58B3-433B-BAB6-A620B73FDA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EAB78C-58B3-433B-BAB6-A620B73FDA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E77BEA-AA3D-45B4-9554-0654FA79DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E77BEA-AA3D-45B4-9554-0654FA79DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E77BEA-AA3D-45B4-9554-0654FA79DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E77BEA-AA3D-45B4-9554-0654FA79DA60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B623FDCF-9241-4CB2-9CE2-42C3DFAD8E0F}
+	EndGlobalSection
+EndGlobal
